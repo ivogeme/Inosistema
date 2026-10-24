@@ -35,7 +35,7 @@ O projeto está em fase de protótipo. Funcionalidades serão implementadas e te
 
 Filosofia 
 
-Uma barra de sistema que não depende de internet extremamente leve feita em caso o mundo digital colapsar.
+Uma base  de sistema que não depende de internet extremamente leve feita em caso o mundo digital colapsar.
 E a gente precisa refazer os computadores, ele será uma alternativa por funcionar em chips simples você pode montar o seu sistema operacional de sobrevivência com ele atualmente, ele muito focado no X86 mas futuramente, eu quero que ele seja possível de você adaptar a ele para chip de 8 a 16 bits 
 
 
