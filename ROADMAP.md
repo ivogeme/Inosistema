@@ -18,3 +18,7 @@ Portabilidade e abstração de hardware
 Compatibilidade experimental com hardware antigo
 1.0.0
 Primeira versão estável
+
+Eu estou planejando aqui na próxima versão o carnel seja mais estável retirar as dependências de X86 colocar diagnósticos e fazer ele realmente funcionar no IBM. Origin
+al  eu quero que ele leia e grava cada.
+BYTE dos leitores de disco sem o sistema de arquivos lendo tudo brutamente e como ele trabalha em modo real os programas terão liberdades total acessando diretamente o sistema de bills. Do computador pelo menos nas primeiras versões
